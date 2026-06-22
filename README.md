@@ -40,8 +40,5 @@ The goal of the project was twofold:
 - Scenario-based financial forecasting
 - Advanced Excel (formulas, structured multi-sheet models)
 
-## File
-`TITAN_FS_ANALYSIS.xlsx` — the full model, including all sheets listed above.
-
 ---
 *Data sourced from Screener.in. This is an independent analysis project for skill demonstration purposes and is not investment advice.*
